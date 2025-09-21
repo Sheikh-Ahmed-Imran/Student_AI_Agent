@@ -5,7 +5,7 @@ from langchain.schema import HumanMessage, AIMessage
 from tools import add_student, get_student, update_student, delete_student, list_students,get_total_students,get_students_by_department,get_recent_onboarded_students,get_active_students_last_7_days,campus_faq
 from db import init_db
 # --- Setup Gemini ---
-key = "AIzaSyDX71TefE9O94kL4jQJF9s-UMbsVpxOc5Y"
+key = "YOUR-GEMINI-KEY"
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=key,streaming=True)
 
 # Collect tools

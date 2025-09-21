@@ -17,7 +17,7 @@ vectorstore = FAISS.load_local(
 )
 
 # Google Gemini LLM
-key = "AIzaSyDX71TefE9O94kL4jQJF9s-UMbsVpxOc5Y"
+key = "YOUR-GEMINI-KEY"
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
     google_api_key=key,
