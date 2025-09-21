@@ -1,0 +1,116 @@
+Welcome to Greenfield University! This file contains detailed information about campus facilities, schedules, and events.
+
+Cafeteria Hours:
+
+* Monday-Friday: 8:00 AM - 7:00 PM
+* Saturday: 9:00 AM - 3:00 PM
+* Sunday: Closed
+
+Library Hours:
+
+* Monday-Friday: 9:00 AM - 9:00 PM
+* Saturday: 10:00 AM - 5:00 PM
+* Sunday: Closed
+
+Campus Departments:
+
+* The Computer Science Department offers world-class faculty, modern labs, and comprehensive curriculum.
+* The Mechanical Engineering Department offers world-class faculty, modern labs, and comprehensive curriculum.
+* The Electrical Engineering Department offers world-class faculty, modern labs, and comprehensive curriculum.
+* The Business Administration Department offers world-class faculty, modern labs, and comprehensive curriculum.
+* The Mathematics Department offers world-class faculty, modern labs, and comprehensive curriculum.
+* The Physics Department offers world-class faculty, modern labs, and comprehensive curriculum.
+* The Chemistry Department offers world-class faculty, modern labs, and comprehensive curriculum.  
+* The Biology Department offers world-class faculty, modern labs, and comprehensive curriculum.
+
+Notable Faculty Members:
+
+* Prof. John Smith teaches in the Computer Science Department and specializes in advanced topics.
+* Prof. Sarah Khan teaches in the Business Administration Department and specializes in advanced topics.
+* Prof. Ali Patel teaches in the Mechanical Engineering Department and specializes in advanced topics.
+* Prof. Fatima Ali teaches in the Electrical Engineering Department and specializes in advanced topics.
+* Prof. Michael Brown teaches in the Physics Department and specializes in advanced topics.
+* Prof. Ayesha Davis teaches in the Chemistry Department and specializes in advanced topics.
+* Prof. David Johnson teaches in the Biology Department and specializes in advanced topics.
+* Prof. Sophia Williams teaches in the Mathematics Department and specializes in advanced topics.
+* Prof. John Davis teaches in the Computer Science Department and specializes in advanced topics.
+* Prof. Sarah Patel teaches in the Electrical Engineering Department and specializes in advanced topics.
+* Prof. Ali Smith teaches in the Mechanical Engineering Department and specializes in advanced topics.
+* Prof. Fatima Brown teaches in the Business Administration Department and specializes in advanced topics.
+* Prof. Michael Johnson teaches in the Physics Department and specializes in advanced topics.
+* Prof. Ayesha Williams teaches in the Chemistry Department and specializes in advanced topics.
+* Prof. David Khan teaches in the Biology Department and specializes in advanced topics.
+* Prof. Sophia Ali teaches in the Mathematics Department and specializes in advanced topics.
+
+Student Clubs and Societies:
+
+* Robotics Club welcomes all students to participate in events, competitions, and workshops.
+* Drama Society welcomes all students to participate in events, competitions, and workshops.
+* Music Club welcomes all students to participate in events, competitions, and workshops.
+* Literature Club welcomes all students to participate in events, competitions, and workshops.
+* Debate Club welcomes all students to participate in events, competitions, and workshops.
+* Photography Club welcomes all students to participate in events, competitions, and workshops.
+* Coding Club welcomes all students to participate in events, competitions, and workshops.
+* Environmental Club welcomes all students to participate in events, competitions, and workshops.
+* Entrepreneurship Club welcomes all students to participate in events, competitions, and workshops.
+* Sports Club welcomes all students to participate in events, competitions, and workshops.
+
+Sports Facilities:
+
+* The campus has excellent facilities for Football, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Basketball, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Cricket, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Swimming, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Tennis, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Volleyball, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Track & Field, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Badminton, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Table Tennis, including courts, fields, and coaching staff.
+* The campus has excellent facilities for Gymnastics, including courts, fields, and coaching staff.
+
+Upcoming Campus Events:
+
+* Orientation Day is scheduled on 2025-09-25 at 10:00 AM.
+* Tech Talk is scheduled on 2025-09-27 at 2:00 PM.
+* Cultural Fest is scheduled on 2025-10-03 at 11:00 AM.
+* Sports Day is scheduled on 2025-10-10 at 9:00 AM.
+* Guest Lecture is scheduled on 2025-10-15 at 3:00 PM.
+* Robotics Workshop is scheduled on 2025-10-20 at 1:00 PM.
+* Music Concert is scheduled on 2025-10-22 at 6:00 PM.
+* Art Exhibition is scheduled on 2025-10-25 at 4:00 PM.
+* Debate Competition is scheduled on 2025-10-28 at 10:00 AM.
+* Entrepreneurship Seminar is scheduled on 2025-11-01 at 2:00 PM.
+* Environmental Awareness Day is scheduled on 2025-11-05 at 11:00 AM.
+* Alumni Meet is scheduled on 2025-11-10 at 3:00 PM.
+* Science Fair is scheduled on 2025-11-15 at 10:00 AM.
+* Coding Hackathon is scheduled on 2025-11-20 at 9:00 AM.
+* Sports Championship is scheduled on 2025-11-25 at 8:00 AM.
+* Cultural Night is scheduled on 2025-11-30 at 7:00 PM.
+* Guest Lecture on AI is scheduled on 2025-12-05 at 3:00 PM.
+* Photography Contest is scheduled on 2025-12-10 at 2:00 PM.
+* Drama Play is scheduled on 2025-12-15 at 6:00 PM.
+* Winter Festival is scheduled on 2025-12-20 at 11:00 AM.
+
+Campus Guidelines:
+
+* Students must carry their ID cards at all times.
+* Smoking is prohibited on campus.
+* Library materials should be returned on time.
+* Students are encouraged to participate in extracurricular activities.
+* Proper dress code is required in all academic buildings.
+* Visitors must register at the security desk.
+* Mobile phones should be kept silent during lectures.
+* Food and drinks are not allowed in laboratories.
+
+General Information:
+
+* The campus spans over 100 acres with green spaces and modern buildings.
+* Wi-Fi is available throughout the campus.
+* The campus has a medical center, counseling services, and student support programs.
+* Cafeterias offer a variety of healthy meals and beverages.
+* Public transport is available nearby for easy commute.
+* The campus has sustainable energy initiatives, including solar panels.
+* Student accommodations are provided with fully furnished hostels and amenities.
+* The campus organizes annual inter-university competitions and cultural programs.
+* Safety and security are maintained 24/7 with trained personnel and CCTV monitoring.
+* Community service programs encourage students to contribute to local society.
